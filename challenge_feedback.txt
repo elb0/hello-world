@@ -1,0 +1,36 @@
+have hard time understanding the question and don't know how to write-up the results
+interpreting R output from model summary
+Remembering additive / odds effects
+Analysis
+The human aspect of statistics which is interpreting and conveying the results. 
+Fully interpreting model output.
+"understanding when to use which model, and interpreting the results"
+interpretation
+Interpretation
+interpreting r code
+Interpreting coefficients 
+Really understanding the interpretation of models / tests - which is a good thing
+Interpreting data into words.
+interpreting random slopes
+interpretation of results
+"Interpretation of different models, be it glm, gam or glmm "
+nothing too challenging 
+Do a lot of analysis in a very short time in test 1
+Interpreting coefficients and estimates 
+Interpretation 
+nothing challenging
+"with all of the different methods we've learned, I sometimes have a hard time picking out which model to use"
+"Interpreting the summary of the GLMint table. Also, I still don't really understand GLMMs and LMMs..."
+The math behind most of the work we do. 
+Critically analyzing statements 
+Interpreting coefficients of GLMs
+Interpreting the summaries of the different models.
+getting to the point for questions asking for making analysis
+interpretation of multiple different effects on one group
+R
+"the switch from using point estimates to CIs, it took a little while to understand why and how to do it correctly "
+Understanding models
+"Interpreting R tables (summary, confint)"
+I found understanding some of the models to be quite confusing. Especially the log-related functions.
+need to write too many things
+"describe the complex models (Poisson/Gamma/Binomial) and using code results to analyze hypothesis, e.g. the last question in the test1 Q3c"
